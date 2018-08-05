@@ -12,7 +12,8 @@ So in the meantime I will be issuing the folling command:
 
 issuing the following command.
 
-```curl -u 'MyUserName' https://api.github.com/user/repos -d '{"name":"name-of-repo-i-want-to-create-"}'
+```
+curl -u 'MyUserName' https://api.github.com/user/repos -d '{"name":"name-of-repo-i-want-to-create-"}'
 
 Until I get things sussed with my acct. 
 
